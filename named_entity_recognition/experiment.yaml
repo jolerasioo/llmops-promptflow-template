@@ -2,7 +2,7 @@ name: named_entity_recognition
 flow: flows/standard
 
 connections:
-- name: aoai
+- name: jillmopswshub5766200784_aoai
   connection_type: AzureOpenAIConnection
   api_base: https://jillmopswshub5766200784.openai.azure.com/
   api_version: 2023-07-01-preview
