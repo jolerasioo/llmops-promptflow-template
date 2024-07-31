@@ -7,7 +7,7 @@
 - `It should be used for INNER-LOOP Experimentation and Evaluation.`
 - `It should be used for OUTER-LOOP Deployment and Inferencing.`
 
-`NOTE: A new FAQ section is added to help Engineers, Data Scientist and developers find answers to general questions on configuring and using this template.`
+`NOTE: A new FAQ section is added to help Engineers, Data Scientist and developers find answers to general questions on configuring and using this template..`
 
 [***FAQS HERE***](./docs/faqs.md)
 

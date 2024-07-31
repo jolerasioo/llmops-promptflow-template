@@ -21,7 +21,7 @@ param tags object = {}
 // Variables
 var name = toLower('${aiHubName}')
 
-// Create a short, unique suffix, that will be unique to each resource group
+// Create a short, unique suffix, that will be unique to each resource group ss
 var uniqueSuffix = substring(uniqueString(resourceGroup().id), 0, 4)
 
 // Dependent resources for the Azure Machine Learning workspace
