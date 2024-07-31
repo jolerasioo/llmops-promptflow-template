@@ -1,6 +1,6 @@
 // Execute this main file to depoy Azure AI studio resources in the basic security configuraiton
 
-// Parameters
+// Parameterss
 @minLength(2)
 @maxLength(12)
 @description('Name for the AI resource and used to derive name of dependent resources.')
